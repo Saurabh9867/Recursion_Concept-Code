@@ -1,3 +1,3 @@
 Recursion is a programming technique in which a function calls itself directly or indirectly to solve a problem. In essence, recursion involves solving a problem by breaking it down into smaller instances of the same problem. Each smaller instance is solved recursively until a base case is reached, at which point the recursion stops and the solutions to the smaller instances are combined to solve the original problem.
 
-In this repository you will find different concept and code which are implemented using concept of recursion in Java such as Searching & Sorting Algorithm using recursion, coding question such as Find sum of digit, Fibonacci series, Reverse Number, etc. using recursion
+In this repository you will find different concept and code which I have implemented using concept of recursion in Java such as Searching & Sorting Algorithm using recursion, coding question such as Find sum of digit, Fibonacci series, Reverse Number, etc. using recursion
